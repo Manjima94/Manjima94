@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=479BF7&random=false&width=435&lines=MANJIMA;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
+<img aling= "center" width = "600"  src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <h1 align="center">Hi 👋, I'm Manjima</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
