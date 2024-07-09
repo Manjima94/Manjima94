@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=479BF7&random=false&width=435&lines=MANJIMA;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Manjima</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
